@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body{
+    height: auto;
+    width: auto;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.button1{
+    padding: 18px 21px;
+    margin:0 3px;
+    border-radius: 40px;
+    border: 2px gray solid;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background-color: lightgray
+}
+
+.button2,.button3{
+    padding: 14px 20px;
+    margin:0 3px;
+    border-radius: 40px;
+    border: 2px gray solid;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: lightblue
+}
+
+.button4{
+    padding: 14px 20px;
+    margin:0 3px;
+    border-radius: 40px;
+    border: 2px gray solid;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: lightblue
+
+}
+
+.button5{
+    padding: 14px 52px;
+    margin:0 3px;
+    border-radius: 40px;
+    border: 2px gray solid;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: lightblue
+}
+
+.button6{
+    padding: 12px 20px;
+    margin:0 3px;
+    border-radius: 40px;
+    border: 2px gray solid;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: lightblue
+
+}
+
+.button1:hover{
+    color: white;
+    background-color:  rgb(174, 174, 174);
+    cursor: pointer;
+
+}
+.button2:hover{
+    color: white;
+    background-color:  rgb(92, 185, 218) ;
+    cursor: pointer;
+
+}
+.button3:hover{
+    color: white;
+    background-color:  rgb(92, 185, 218) ;
+    cursor: pointer;
+
+}
+.button4:hover{
+    color: white;
+    background-color:  rgb(92, 185, 218) ;
+    cursor: pointer;
+
+}
+.button5:hover{
+    color: white;
+    background-color:  rgb(92, 185, 218) ;
+    cursor: pointer;
+
+}
+.button6:hover{
+    color: white;
+    background-color:  rgb(92, 185, 218) ;
+    cursor: pointer;
+}
+
+.row{
+    margin: 8px 0px;
+}
+
+.container{
+    background-color: rgb(183, 223, 183);
+    padding: 20px;
+    width: 300px;
+    border: 1px black solid;
+    border-radius: 28px;
+    
+}
+
+.row input{
+    padding: 12px 12px;
+    margin: 8px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color: rgb(252, 253, 253);
+
+}
